@@ -1,11 +1,11 @@
 {
-  "name": "atmostoeth",
-  "version": "1.1.0",
+  "name": "bech32toeip55",
+  "version": "1.2.0",
   "description": "Converter between ETH and Atmos addresses",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ppenter/atmostoeth.git"
+    "url": "git+https://github.com/ppenter/bech32ToEip55.git"
   },
   "source": "src/converter.ts",
   "main": "lib/converter.js",
